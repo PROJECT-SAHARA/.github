@@ -1,7 +1,9 @@
 # 🌍 S.A.H.A.R.A
 ### System for Active Human Accountability and Rapid Action
 ---
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/00e9984b-408f-4219-96d0-bc7207fa2fcf" />
+<img width="1280" height="864" alt="image" src="https://github.com/user-attachments/assets/a88e1ef1-b562-4079-8dee-f6cf48be0b90" />
+---
 ## 📌 Problem Statement
 
 Public places often face issues such as:
