@@ -127,7 +127,6 @@ Control room notified → Immediate deterrent action triggered.
 
 ## 📊 Feasibility & Viability
 
-* 86–89% detection accuracy in prototype testing
 * Low-cost hardware setup
 * Modular & scalable architecture
 * Policy-aligned with:
