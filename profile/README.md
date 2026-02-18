@@ -78,6 +78,7 @@ Unlike traditional CCTV (which only records), SAHARA provides **real-time interv
 * Keras
 * WebSockets
 * HTTP Requests
+* YOLOv8
 
 **Hardware**
 
